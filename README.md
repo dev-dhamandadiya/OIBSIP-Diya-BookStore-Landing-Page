@@ -39,3 +39,27 @@ BookStore/
 │   ├── technology.jpg
 │   └── self-development.jpg
 └── README.md
+
+🎯 Purpose
+
+The objective of this project is to create a visually appealing landing page using only HTML and CSS while practicing layout design, styling techniques, and responsive web development concepts.
+
+📸 Preview
+
+A professional bookstore landing page featuring:
+
+Hero Banner
+Book Categories
+Contact Section
+Modern Footer
+👩‍💻 Developed By
+
+Dhamanda Diya Hoshiyarsingh
+
+🏢 Internship
+
+OASIS INFOBYTE
+
+Level 1 - Task 1
+
+⭐ Thank you for visiting this project.
